@@ -18,30 +18,4 @@ SEVIYORUM Perfume is dedicated to creating luxurious and memorable fragrances fo
 </head>
 <body>
 
-  <header>
-    <h1>???? ????????? ????????</h1>
-  </header>
-
-  <div class="profile">
-    <img src="images/profile.jpg" alt="???? ???">
-    <div class="info">
-      <p><b>???:</b> ????? ???</p>
-      <p><b>??????:</b> ??XXXXXXXXX</p>
-    </div>
-    <div class="social">
-      <a href="https://facebook.com/yourprofile" target="_blank">Facebook</a>
-      <a href="https://wa.me/8801XXXXXXXXX" target="_blank">WhatsApp</a>
-      <a href="https://instagram.com/yourprofile" target="_blank">Instagram</a>
-    </div>
-  </div>
-
-  <h2 style="text-align:center;">???? ??? ????????</h2>
-  <div class="gallery">
-    <img src="images/photo1.jpg" alt="??? ?">
-    <img src="images/photo2.jpg" alt="??? ?">
-    <img src="images/photo3.jpg" alt="??? ?">
-  </div>
-
-</body>
-</html>
-![আমার ছবি](https://github.com/user-attachments/assets/66519f0b-1063-44ac-9e60-34db8db6b4c3)
+ 
