@@ -1,4 +1,4 @@
-<!doctype html>
+SEVIYORUM Perfume is dedicated to creating luxurious and memorable fragrances for every occasion. Our passion for quality, elegance, and unique scents ensures that each perfume offers a distinctive experience. We strive to inspire confidence and delight through our carefully crafted collections.<!doctype html>
 <html lang="bn">
 <head>
   <meta charset="utf-8">
